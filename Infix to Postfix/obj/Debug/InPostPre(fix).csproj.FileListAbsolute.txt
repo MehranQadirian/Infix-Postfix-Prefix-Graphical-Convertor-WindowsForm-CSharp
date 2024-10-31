@@ -1,0 +1,22 @@
+C:\Users\Mehran\source\repos\Infix to Postfix\Infix to Postfix\bin\Debug\Infix to Postfix.exe.config
+C:\Users\Mehran\source\repos\Infix to Postfix\Infix to Postfix\bin\Debug\Infix to Postfix.exe
+C:\Users\Mehran\source\repos\Infix to Postfix\Infix to Postfix\bin\Debug\Infix to Postfix.pdb
+C:\Users\Mehran\source\repos\Infix to Postfix\Infix to Postfix\obj\Debug\InPostPre(fix).csprojAssemblyReference.cache
+C:\Users\Mehran\source\repos\Infix to Postfix\Infix to Postfix\obj\Debug\Infix_to_Postfix.Form1.resources
+C:\Users\Mehran\source\repos\Infix to Postfix\Infix to Postfix\obj\Debug\Infix_to_Postfix.Info.resources
+C:\Users\Mehran\source\repos\Infix to Postfix\Infix to Postfix\obj\Debug\Infix_to_Postfix.Properties.Resources.resources
+C:\Users\Mehran\source\repos\Infix to Postfix\Infix to Postfix\obj\Debug\InPostPre(fix).csproj.GenerateResource.cache
+C:\Users\Mehran\source\repos\Infix to Postfix\Infix to Postfix\obj\Debug\InPostPre(fix).csproj.CoreCompileInputs.cache
+C:\Users\Mehran\source\repos\Infix to Postfix\Infix to Postfix\obj\Debug\Infix to Postfix.exe
+C:\Users\Mehran\source\repos\Infix to Postfix\Infix to Postfix\obj\Debug\Infix to Postfix.pdb
+D:\New folder (2)\Infix to Postfix\Infix to Postfix\bin\Debug\Infix to Postfix.exe.config
+D:\New folder (2)\Infix to Postfix\Infix to Postfix\bin\Debug\Infix to Postfix.exe
+D:\New folder (2)\Infix to Postfix\Infix to Postfix\bin\Debug\Infix to Postfix.pdb
+D:\New folder (2)\Infix to Postfix\Infix to Postfix\obj\Debug\Infix_to_Postfix.Form1.resources
+D:\New folder (2)\Infix to Postfix\Infix to Postfix\obj\Debug\Infix_to_Postfix.Info.resources
+D:\New folder (2)\Infix to Postfix\Infix to Postfix\obj\Debug\Infix_to_Postfix.Properties.Resources.resources
+D:\New folder (2)\Infix to Postfix\Infix to Postfix\obj\Debug\InPostPre(fix).csproj.GenerateResource.cache
+D:\New folder (2)\Infix to Postfix\Infix to Postfix\obj\Debug\InPostPre(fix).csproj.CoreCompileInputs.cache
+D:\New folder (2)\Infix to Postfix\Infix to Postfix\obj\Debug\Infix to Postfix.exe
+D:\New folder (2)\Infix to Postfix\Infix to Postfix\obj\Debug\Infix to Postfix.pdb
+D:\New folder (2)\Infix to Postfix\Infix to Postfix\obj\Debug\InPostPre(fix).csproj.AssemblyReference.cache

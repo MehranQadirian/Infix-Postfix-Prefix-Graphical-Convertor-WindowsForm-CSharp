@@ -1,0 +1,11 @@
+C:\Users\Mehran\source\repos\Infix to Postfix\Infix to Postfix\bin\Debug\Infix to Postfix.exe.config
+C:\Users\Mehran\source\repos\Infix to Postfix\Infix to Postfix\bin\Debug\Infix to Postfix.exe
+C:\Users\Mehran\source\repos\Infix to Postfix\Infix to Postfix\bin\Debug\Infix to Postfix.pdb
+C:\Users\Mehran\source\repos\Infix to Postfix\Infix to Postfix\obj\Debug\Infix to Postfix.csprojAssemblyReference.cache
+C:\Users\Mehran\source\repos\Infix to Postfix\Infix to Postfix\obj\Debug\Infix_to_Postfix.Form1.resources
+C:\Users\Mehran\source\repos\Infix to Postfix\Infix to Postfix\obj\Debug\Infix_to_Postfix.Properties.Resources.resources
+C:\Users\Mehran\source\repos\Infix to Postfix\Infix to Postfix\obj\Debug\Infix to Postfix.csproj.GenerateResource.cache
+C:\Users\Mehran\source\repos\Infix to Postfix\Infix to Postfix\obj\Debug\Infix to Postfix.csproj.CoreCompileInputs.cache
+C:\Users\Mehran\source\repos\Infix to Postfix\Infix to Postfix\obj\Debug\Infix to Postfix.exe
+C:\Users\Mehran\source\repos\Infix to Postfix\Infix to Postfix\obj\Debug\Infix to Postfix.pdb
+C:\Users\Mehran\source\repos\Infix to Postfix\Infix to Postfix\obj\Debug\Infix_to_Postfix.Info.resources
